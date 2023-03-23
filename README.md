@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+<img src="https://github.com/chickdan/chickdan/raw/main/header.png" width="410" alt="SteamGifts-iOS on an iPhone 13 Pro" align="right" />
+</p>
 
-<!--
-**chickdan/chickdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.linkedin.com/in/daniel-chick/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://stackoverflow.com/users/9053497/ddan">
+<img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :house: I’m currently working at [Homebase](https://homebase.ai)
+- :iphone: Building a native iOS wrapper around steamgits.com called [SteamGifts-iOS](https://chickdan.gitlab.io/SteamGiftsIOS)
+- 💻 Enjoy contributing to [open source software on GitHub](https://github.com/chickdan?tab=repositories&type=fork).
+- :video_game: Love playing a multitude of PC games; currently [Total War: Warhammer 3](https://warhammer3.totalwar.com/) but looking forward to [The Finals](https://www.reachthefinals.com/)
+- :book: Reading Foundation by Isaac Asimov
+
