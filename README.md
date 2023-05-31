@@ -15,5 +15,5 @@
 - :iphone: Building a native iOS wrapper around steamgits.com called [SteamGifts-iOS](https://chickdan.gitlab.io/SteamGiftsIOS)
 - 💻 Enjoy contributing to [open source software on GitHub](https://github.com/chickdan?tab=repositories&type=fork).
 - :video_game: Love playing a multitude of PC games; currently [Total War: Warhammer 3](https://warhammer3.totalwar.com/) but looking forward to [The Finals](https://www.reachthefinals.com/)
-- :book: Reading Foundation by Isaac Asimov
+- :book: Reading The Faithful and the Fallen series by John Gwynne
 
