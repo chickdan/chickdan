@@ -1,10 +1,10 @@
 # Hi there 👋
 <img src="https://github.com/chickdan/chickdan/raw/main/header.png" width="410" alt="SteamGifts-iOS on an iPhone 13 Pro" align="right" />
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/daniel-chick/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-</p>
+</p> -->
 
 - :house: I’m currently working at [Homebase](https://homebase.ai)
 - :iphone: Building a native iOS wrapper around steamgits.com called [SteamGifts-iOS](https://chickdan.gitlab.io/SteamGiftsIOS)
