@@ -10,6 +10,6 @@
 - :iphone: Building a native iOS wrapper around steamgits.com called [SteamGifts-iOS](https://chickdan.gitlab.io/SteamGiftsIOS)
 - 💻 Enjoy contributing to [open source software on GitHub](https://github.com/chickdan?tab=repositories&type=fork).
 - :video_game: Love playing a multitude of PC games; currently [Space Marine 2](https://www.focus-entmt.com/en/games/warhammer-40000-space-marine-2) and [The Finals](https://www.reachthefinals.com/)
-- :book: Reading Malazan Book of the Fallen series by Steven Erikson
+- :book: Reading [Malazan Book of the Fallen](https://www.goodreads.com/series/43493-malazan-book-of-the-fallen) series by Steven Erikson
 
 [![Anurag's GitHub stats](https://github-readme-stats-seven-iota-58.vercel.app/api?username=chickdan&count_private=true&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
